@@ -1,0 +1,30 @@
+{
+  "name": "lovbot-gui",
+  "version": "1.0.0",
+  "description": "LOVBOT GUI 帳密登入 + 自動攻擊 Shulker",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron .",
+    "dist": "electron-builder"
+  },
+  "build": {
+    "appId": "com.lovbot.gui",
+    "productName": "LOVBOT_GUI",
+    "directories": {
+      "output": "dist"
+    },
+    "files": [
+      "**/*"
+    ],
+    "win": {
+      "target": "portable"
+    }
+  },
+  "devDependencies": {
+    "electron": "^28.3.3",
+    "electron-builder": "^24.4.0"
+  },
+  "dependencies": {
+    "mineflayer": "^4.27.0"
+  }
+}

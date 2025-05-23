@@ -1,0 +1,13 @@
+[
+  {
+    "id": "id",
+    "email": "example@gamil.com",
+    "name": "Bot-1",
+    "master": "example",
+    "enabled": true,
+    "autoAttack": true,
+    "attackTarget": "shulker",
+    "attackRange": 3.5,
+    "attackInterval": 10
+  }
+]

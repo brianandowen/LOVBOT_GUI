@@ -79,19 +79,20 @@ Node.js / HTML / CSS / JavaScript
 ---
 
 ### 🙋‍♂️ 作者資訊
-本專案由陳庭毅（Chen Ting-Yi）開發
-GitHub：brianandowen
-Mail: brianandowen@gmail.com
+
+本專案由陳庭毅（Chen Ting-Yi）開發  
+GitHub：brianandowen  
+Mail: brianandowen[at]gmail[dot]com  
 專案：Minecraft 自動化掛機工具 LOVBOT_GUI
 
 ---
 
 #### 注意事項
-本專案為技術展示用途，請遵守遊戲服務條款
+本專案為技術展示用途，請遵守遊戲服務條款  
 
-請勿在未經允許的伺服器上使用本工具
+請勿在未經允許的伺服器上使用本工具  
 
-所有登入資訊僅儲存在本地 .auth/ 資料夾，不會上傳
+所有登入資訊僅儲存在本地 .auth/ 資料夾，不會上傳  
 
 ---
 
@@ -99,10 +100,10 @@ Mail: brianandowen@gmail.com
 
 🔧 使用方式
 
-1. 複製上面內容
-2. 在 VS Code 建立 `README.md`
-3. 貼上並儲存
-4. 然後執行：
+1. 複製上面內容  
+2. 在 VS Code 建立 `README.md`  
+3. 貼上並儲存  
+4. 然後執行  
 
 
 
